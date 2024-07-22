@@ -1,1 +1,1 @@
-web: go-log
+web: go-auto
